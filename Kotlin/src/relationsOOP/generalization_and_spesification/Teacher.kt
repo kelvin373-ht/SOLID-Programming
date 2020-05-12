@@ -1,0 +1,2 @@
+package relationsOOP.generalization_and_spesification
+
